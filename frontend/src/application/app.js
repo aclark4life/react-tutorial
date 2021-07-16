@@ -1,7 +1,7 @@
 import ReactDOM from 'react-dom';
 import React from 'react';
 
-import './index.css';
+import '../styles/index.css';
 
 function Square(props) {
   return (
