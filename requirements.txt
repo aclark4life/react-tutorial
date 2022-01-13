@@ -1,7 +1,7 @@
 Django==3.2.5
 Jinja2==3.0.1
 MarkupSafe==2.0.1
-Pillow==8.3.1
+Pillow==9.0.0
 Willow==1.4
 XlsxWriter==1.4.4
 anyascii==0.2.0
